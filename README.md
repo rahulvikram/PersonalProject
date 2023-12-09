@@ -31,10 +31,3 @@ NOTES:
 These are all DLL (dynamic link library) files, used for the building and structure of the .exe file.
 
 ### Double click the game.exe file, and you will be able to play the game.
-
-#### Find me here:
-
-Youtube: rahul vikram\
-Instagram -rahulvikram123\
-Twitter - rahulvikram1234\
-Reddit: rahulvikram123
